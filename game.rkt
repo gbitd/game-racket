@@ -9,3 +9,5 @@
 (displayln "Guess a number between 1 and 100")
 (inquire-user (random 100))
 
+(define (par? n) (* 2 n))
+
