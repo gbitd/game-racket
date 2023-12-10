@@ -1,3 +1,4 @@
+#lang racket
 
 (define (inquire-user number)
   (display "Insert a number: ")
