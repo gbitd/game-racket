@@ -10,4 +10,5 @@
   (displayln "Como o rei era adepto do lema 'Programação é como a segunda alfabetização',\ntodas as pessoas seriam submetidas a testes duplos de escrita e de lógica de programação em racket")
   )
 
-;; 
+;;
+;;
